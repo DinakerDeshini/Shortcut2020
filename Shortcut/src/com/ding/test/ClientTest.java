@@ -9,7 +9,7 @@ public class ClientTest {
 		String location = Util.getLocation();
 		System.out.println("Company Name :"+companyName);
 		System.out.println("Location :"+location);
-
+		System.out.println("It worked");
 	}
 
 }
